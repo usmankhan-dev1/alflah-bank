@@ -1,0 +1,50 @@
+
+.cantener {
+  display: flex;
+  /* optional for spacing */
+  
+}
+.bo {
+  /* size set kar sakte hain */
+  width: 100%;
+  height: auto;
+}
+
+
+.cantener1 {
+  display: flex;
+  /* optional for spacing */
+  
+}
+.box {
+  /* size set kar sakte hain */
+  width: 100%;
+  height: auto;
+}
+
+
+.cantener2 {
+  display: flex;
+  /* optional for spacing */
+  
+}
+.cat {
+  /* size set kar sakte hain */
+  width: 100%;
+  height: auto;
+   /* optional for spacing */
+  gap: 20px;
+}
+
+.button{
+  background-color: red;
+}
+
+marquee{
+    background-color: red;
+    color: white;
+    padding: 16px;
+    font-size: 18px;
+    font-weight: 400;
+    border: 1px solid white;
+}
